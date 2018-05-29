@@ -3,12 +3,8 @@
 	Question2Answer by Gideon Greenspan and contributors
 	http://www.question2answer.org/
 
-	File: qa-lang/de/qa-lang-options.php
-	Description: Language phrases for all options, as shown in admin center
+	Description: German language phrases for all options, as shown in admin center
 
-	Version: 1.7
-	Date: 2016-02-10
-	Last Editor: Dominik Reichardt (dominik@reichardt-online.it)
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
@@ -22,6 +18,7 @@
 
 	More about this license: http://www.question2answer.org/license.php
 */
+
 
 return array(
     'allow_anonymous_naming' => 'Erlaube anonym Beitragenden ihren Namen anzugeben:',

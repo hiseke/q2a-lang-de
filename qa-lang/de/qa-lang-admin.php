@@ -3,12 +3,7 @@
 	Question2Answer by Gideon Greenspan and contributors
 	http://www.question2answer.org/
 
-	File: qa-lang/de/qa-lang-admin.php
-	Description: Language phrases for admin center
-
-	Version: 1.7
-	Date: 2016-02-11
-	Last Editor: Dominik Reichardt (dominik@reichardt-online.it)
+	Description: German language phrases for admin center
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License

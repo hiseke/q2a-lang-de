@@ -1,15 +1,10 @@
 <?php
 /*
-	Question2Answer 1.4 (c) 2011, Gideon Greenspan
-
+	Question2Answer by Gideon Greenspan and contributors
 	http://www.question2answer.org/
 
-	File: qa-lang/de/qa-lang-emails.php
-	Description: Language phrases for email notifications
+	Description: German language phrases for email notifications
 
-	Version: 1.7
-	Date: 2016-02-10
-	Last Editor: Dominik Reichardt (dominik@reichardt-online.it)
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
@@ -23,6 +18,7 @@
 
 	More about this license: http://www.question2answer.org/license.php
 */
+
 
 return array(
     'a_commented_body' => 'Deine Antwort bei ^site_title hat einen neuen Kommentar von ^c_handle:\n\n^open^c_content^close erhalten.\n\nDeine Antwort war:\n\n^open^c_context^close\n\nDu kannst mit einem eigenen Kommentar antworten:\n^url\n\nVielen Dank,\n\n^site_title',

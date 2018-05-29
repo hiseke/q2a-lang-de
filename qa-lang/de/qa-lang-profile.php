@@ -1,15 +1,10 @@
 <?php
 /*
-	Question2Answer 1.4 (c) 2011, Gideon Greenspan
-
+	Question2Answer by Gideon Greenspan and contributors
 	http://www.question2answer.org/
 
-	File: qa-lang/de/qa-lang-profile.php
-	Description: Language phrases for user profile page
+	Description: German language phrases for user profile page
 
-	Version: 1.7
-	Date: 2016-02-10
-	Last Editor: Dominik Reichardt (dominik@reichardt-online.it)
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
@@ -23,6 +18,7 @@
 
 	More about this license: http://www.question2answer.org/license.php
 */
+
 return array(
     '1_chosen_as_best' => ' (1x als beste gewählt)',
     '1_down_vote' => '1 Minuspunkt',

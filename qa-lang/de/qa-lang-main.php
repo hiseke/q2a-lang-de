@@ -1,15 +1,10 @@
 <?php
 /*
-	Question2Answer 1.4 (c) 2011, Gideon Greenspan
-
+	Question2Answer by Gideon Greenspan and contributors
 	http://www.question2answer.org/
 
-	File: qa-lang/de/qa-lang-main.php
-	Description: Language phrases commonly used throughout Q2A
+	Description: German language phrases commonly used throughout Q2A
 
-	Version: 1.7
-	Date: 2016-02-10
-	Last Editor: Dominik Reichardt (dominik@reichardt-online.it)
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
