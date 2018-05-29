@@ -26,6 +26,10 @@
 */
 
 	return array(
+        '_decimal_point' => ',',
+        '_thousands_separator' => '.',
+        '_thousands_suffix' => 'k',
+        '_millions_suffix' => 'm',
 		'1_answer' => '1 Antwort',
 		'1_day' => '1 Tag',
 		'1_disliked' => '1 Minuspunkt',
@@ -68,6 +72,7 @@
 		'nav_register' => 'Registrieren',
 		'nav_unanswered' => 'Unbeantwortet',
 		'nav_users' => 'Benutzer',
+        'newest_users' => 'Neuste Benutzer',
 		'no_active_users' => 'Keine aktiven Benutzer gefunden',
 		'no_answers_found' => 'Keine Antworten gefunden',
 		'no_answers_in_x' => 'Keine Antworten in ^',
@@ -108,11 +113,14 @@
                 'suggest_qs' => '^1Alle Fragen anzeigen^2.',
                 'unanswered_qs_in_x' => 'Neue unbeantwortete Fragen in ^',
                 'unanswered_qs_title' => 'Neue unbeantwortete Fragen',
-                'vote_disabled_hidden_a' => 'Du kannst für versteckte Antworten keine Punkte vergeben',
-                'vote_disabled_hidden_q' => 'Du kannst für versteckte Fragen keine Punkte vergeben',
-                'vote_disabled_my_a' => 'Du kannst für deine eigenen Antworten keine Punkte vergeben',
-                'vote_disabled_my_q' => 'Du kannst für deine eigenen Fragen keine Punkte vergeben',
+                'vote_disabled_hidden_post' => 'Du kannst nicht über versteckte Beiträge abstimmen',
+                'vote_disabled_hidden_a' => 'Du kannst nicht über versteckte Antworten abstimmen',  // @deprecated
+                'vote_disabled_hidden_q' => 'Du kannst nicht über versteckte Fragen abstimmen',  // @deprecated
+                'vote_disabled_my_post' => 'Du kannst nicht über deine eigenen Beiträge abstimmen',
+                'vote_disabled_my_a' => 'Du kannst nicht über deine eigenen Antworten abstimmen',  // @deprecated
+                'vote_disabled_my_q' => 'Du kannst nicht über deine eigenen Fragen abstimmen',  // @deprecated
                 'vote_disabled_q_page_only' => 'Bitte sieh die Frage an, um Punkte zu vergeben',
+                'vote_disabled_queued' => 'Du kannst nur über genehmigte Beiträge abstimmen',
                 'vote_down_popup' => 'Minuspunkt geben',
                 'vote_limit' => 'Zu viele Punkte erhalten - Bitte versuche es in 1 Stunde nochmal',
                 'vote_must_confirm' => 'Bitte ^5bestätige deine E-Mail-Adresse^6 um Punkte zu vergeben.',
@@ -219,8 +227,8 @@
 		'voted_qs_in_x' => 'Fragen mit den meisten positiven Bewertungen in ^',
 		'x_tags' => '^ Tags',		
 		'max_upload_size_x' => "Maximale Größe des Uploads ist ^",
-		'view_q_must_be_approved' => "Dein Account muss bestätigt sein, um Fragen zu sehen.",
-		'vote_disabled_approve' => "Dein Account muss bestätigt sein, um bewerten zu können",
+		'view_q_must_be_approved' => 'Zum Sehen von Frageseiten muss dein Account freigeschaltet werden. Bitte warte oder ^1füge Informationen hinzu^2.',
+        'vote_disabled_approve' => 'Dein Account muss freigeschaltet werden bevor du abstimmen kannst',
 		'vote_disabled_down_approve' => "Dein Account muss bestätigt sein, um negativ bewerten zu können",
 		'written' => "geschrieben",
 		'email_error' => "Beim Senden der E-Mail ist ein Fehler aufgetreten.",

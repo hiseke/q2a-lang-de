@@ -93,6 +93,7 @@
 		'nav_user_as' => "Alle Antworten",
 		'nav_user_qs' => "Alle Fragen",
 		'nav_user_wall' => "Pinnwand",
+        'next_step' => 'Nächster Schritt',
 		'your_a_commented' => "Deine Antwort kommentiert",
 		'your_a_edited' => "Deine Antwort bearbeitet",
 		'your_a_hidden' => "Deine Antwort versteckt",

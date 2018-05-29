@@ -34,7 +34,7 @@
 		'a_selected_subject' => 'Deine Antwort bei ^site_title wurde als beste ausgewählt!',
 		'c_commented_body' => "Bei ^site_title hat ^c_handle einen neuen Kommentar nach deinem Kommentar hinterlassen:\n\n^open^c_content^close\n\nHier findest du die Unterhaltung:\n\n^open^c_context^close\n\nDu kannst mit einem eigenen Kommentar antworten:\n^url\n\nVielen Dank,\n\n^site_title",
 		'c_commented_subject' => 'Dein Kommentar bei ^site_title wurde hinzugefügt zu',
-		'confirm_body' => "Bitte klicke auf den folgenden Link, um deine Email-Adresse bei ^site_title zu bestätigen:\n^url\n\nVielen Dank,\n^site_title",
+        'confirm_body' => "Bitte klicke unten um deine E-Mail-Adresse zu bestätigen für ^site_title.\n\n^url\n\nBestätigungscode: ^code\n\n Vielen Dank,\n^site_title",
 		'confirm_subject' => '^site_title - Email-Address bestätigen',
 		'feedback_body' => "Kommentare:\n^message\n\nName:\n^name\n\nEmail:\n^email\n\nVorherige Seite:\n^previous\n\nBenutzer:\n^url\n\nIP-Addresse:\n^ip\n\nBrowser:\n^browser",
 		'feedback_subject' => '^ Feedback',
