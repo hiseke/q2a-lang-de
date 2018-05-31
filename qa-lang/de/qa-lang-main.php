@@ -148,7 +148,7 @@ return array(
     'image_too_big_x_pc' => 'Das Bild ist zu groß. Bitte verkleinere es auf ^% und versuche es erneut.',
     'nav_admin' => 'Admin',
     'nav_home' => 'Start',
-    'nav_hot' => 'Beliebt!',
+    'nav_hot' => 'Beliebt',
     'nav_login' => 'Anmelden',
     'nav_logout' => 'Abmelden',
     'nav_most_answers' => 'Meiste Antworten',
